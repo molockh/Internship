@@ -1,0 +1,10 @@
+.DS_Store
+.cache/
+.idea/
+build/
+Debug/
+cmake-build-debug/
+artifacts/
+
+compite_commands.json
+tags
