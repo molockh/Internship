@@ -1,5 +1,5 @@
 # Advanced C++ and low-level software development
-This repository contains solutions of homework assignments given to me during my the internship at a large Ukrainian R&D company specializing in low-level development. You can see the list of topics below.
+This repository contains solutions of homework assignments given to me during internship at a large Ukrainian R&D company specializing in low-level development. You can see the list of topics below.
 ## Content
 ### 1. [Design patterns. Technical interview questions](Homework/Task_1_FactoryMethod)
 
